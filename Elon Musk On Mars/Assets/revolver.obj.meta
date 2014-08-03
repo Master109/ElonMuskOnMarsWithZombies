@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 98c3327babf10ba498b78e4e633aebbe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: Barrel_Roll 2
+    100004: Bullet_Casing
+    100006: Button
+    100008: Cylinder
+    100010: Generic
+    100012: Hammer
+    100014: Handle_- Done
+    100016: Handle_Sides - Done
+    100018: //RootNode
+    100020: Sight_Back - Done
+    100022: Sight_Front - Done
+    100024: Sight_Rail - Done
+    100026: Trigger
+    100028: Trigger_Guard
+    400000: Barrel
+    400002: Barrel_Roll 2
+    400004: Bullet_Casing
+    400006: Button
+    400008: Cylinder
+    400010: Generic
+    400012: Hammer
+    400014: Handle_- Done
+    400016: Handle_Sides - Done
+    400018: //RootNode
+    400020: Sight_Back - Done
+    400022: Sight_Front - Done
+    400024: Sight_Rail - Done
+    400026: Trigger
+    400028: Trigger_Guard
+    2300000: Barrel
+    2300002: Barrel_Roll 2
+    2300004: Bullet_Casing
+    2300006: Button
+    2300008: Cylinder
+    2300010: Generic
+    2300012: Hammer
+    2300014: Handle_- Done
+    2300016: Handle_Sides - Done
+    2300018: Sight_Back - Done
+    2300020: Sight_Front - Done
+    2300022: Sight_Rail - Done
+    2300024: Trigger
+    2300026: Trigger_Guard
+    3300000: Barrel
+    3300002: Barrel_Roll 2
+    3300004: Bullet_Casing
+    3300006: Button
+    3300008: Cylinder
+    3300010: Generic
+    3300012: Hammer
+    3300014: Handle_- Done
+    3300016: Handle_Sides - Done
+    3300018: Sight_Back - Done
+    3300020: Sight_Front - Done
+    3300022: Sight_Rail - Done
+    3300024: Trigger
+    3300026: Trigger_Guard
+    4300000: Barrel
+    4300002: Barrel_Roll 2
+    4300004: Bullet_Casing
+    4300006: Button
+    4300008: Cylinder
+    4300010: Generic
+    4300012: Hammer
+    4300014: Handle_- Done
+    4300016: Handle_Sides - Done
+    4300018: Sight_Back - Done
+    4300020: Sight_Front - Done
+    4300022: Sight_Rail - Done
+    4300024: Trigger
+    4300026: Trigger_Guard
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Barrel
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

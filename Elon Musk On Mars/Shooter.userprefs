@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player.cs" Line="94" Column="1" />
+      <File FileName="Assets/Bullet2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Crosshair.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

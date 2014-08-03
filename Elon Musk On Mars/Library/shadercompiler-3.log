@@ -1,0 +1,82 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-3--1336664064
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=636 outsize=1103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=636 outsize=437 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_ON OCTAVES_4 QUALITY_HIGH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=SCATTERING_ON QUALITY_HIGH OCTAVES_1 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_1 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=2970 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_2 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_ON QUALITY_HIGH OCTAVES_3 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_ON QUALITY_HIGH OCTAVES_5 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=6181 kw=SCATTERING_ON OCTAVES_4 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=OCTAVES_4 SCATTERING_OFF QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_ON OCTAVES_1 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_OFF OCTAVES_1 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=2969 kw=SCATTERING_OFF OCTAVES_2 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_ON OCTAVES_3 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=7045 kw=SCATTERING_ON OCTAVES_5 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=SCATTERING_OFF OCTAVES_5 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=SCATTERING_ON OCTAVES_4 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=3503 kw=SCATTERING_ON OCTAVES_1 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_OFF OCTAVES_1 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3880 outsize=1640 kw=SCATTERING_ON OCTAVES_2 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3880 outsize=290 kw=SCATTERING_OFF OCTAVES_2 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=3401 kw=SCATTERING_OFF OCTAVES_3 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3880 outsize=4264 kw=SCATTERING_OFF OCTAVES_5 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=9407 kw=SCATTERING_ON OCTAVES_4 QUALITY_HIGH ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3880 outsize=6 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_3 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3880 outsize=1927 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_3 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3880 outsize=4202 kw=SCATTERING_ON QUALITY_HIGH OCTAVES_5 ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3880 outsize=6 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_5 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3880 outsize=2469 kw=QUALITY_HIGH SCATTERING_OFF OCTAVES_5 ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3880 outsize=6 kw=SCATTERING_ON OCTAVES_4 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3880 outsize=3693 kw=SCATTERING_ON OCTAVES_4 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=9407 kw=SCATTERING_ON OCTAVES_4 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3880 outsize=6 kw=SCATTERING_OFF OCTAVES_2 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3880 outsize=1654 kw=SCATTERING_OFF OCTAVES_2 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=8091 kw=SCATTERING_ON OCTAVES_3 QUALITY_LOW ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=9407 kw=SCATTERING_ON OCTAVES_4 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=6775 kw=SCATTERING_ON OCTAVES_2 QUALITY_MED ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3880 outsize=10723 kw=SCATTERING_ON OCTAVES_5 QUALITY_MED ok=1
+End of pipe
+
+Quitting shader compiler process
